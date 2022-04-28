@@ -1,6 +1,7 @@
 def print_yh():
     print("yh is the best")
 
-# coding is awesome 
+def print_jp():
+    print("jp is the best")
 
-
+# coding is awesome
